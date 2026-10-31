@@ -48,6 +48,7 @@ Foram definidas três condições de risco:
 - Atraso relevante na entrega;
 - Múltiplos contatos com o atendimento;
 - Alto número de reclamações.
+Link Repositório: https://github.com/FairyMidnights/IAST---Fase-1---Tech-Challenge/settings
 
 A partir dessas condições, foram criados grupos representando diferentes jornadas do cliente.
 
